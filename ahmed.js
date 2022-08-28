@@ -1,1 +1,1 @@
-document.write("Hello Ahmed");
+document.write("Hellgggo Ahmed");
